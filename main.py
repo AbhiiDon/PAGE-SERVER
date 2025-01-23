@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4');
+      background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
